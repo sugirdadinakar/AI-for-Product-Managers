@@ -63,9 +63,9 @@ Public benchmarks (MMLU, GPQA, SWE-bench, Arena Elo…) answer "how capable is t
 
 ## 5. The canonical PM reading
 
-- **"Beyond vibe checks: A PM's complete guide to evals"** — Aman Khan on Lenny's Newsletter (Aug 2025): the most-cited PM-level eval guide. `lennysnewsletter.com/p/beyond-vibe-checks-a-pms-complete`
-- **"Demystifying evals for AI agents"** — Anthropic engineering blog: agent-eval harnesses from a builder's perspective. `anthropic.com/engineering/demystifying-evals-for-ai-agents`
-- Tools your team might use (verified active, July 2026): Braintrust, LangSmith, Langfuse (open-source), Arize Phoenix (open-source), W&B Weave, DeepEval, PromptLayer, Vellum, Galileo, Patronus AI. What matters for the PM isn't the tool — it's that datasets, scores, and gates exist and you can read them.
+- **["Beyond vibe checks: A PM's complete guide to evals"](https://www.lennysnewsletter.com/p/beyond-vibe-checks-a-pms-complete)** — Aman Khan on Lenny's Newsletter (Aug 2025): the most-cited PM-level eval guide.
+- **["Demystifying evals for AI agents"](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)** — Anthropic engineering blog: agent-eval harnesses from a builder's perspective.
+- Tools your team might use (verified active, July 2026): [Braintrust](https://www.braintrust.dev), [LangSmith](https://smith.langchain.com), [Langfuse](https://langfuse.com) (open-source), [Arize Phoenix](https://phoenix.arize.com) (open-source), [W&B Weave](https://wandb.ai), [DeepEval](https://deepeval.com), [PromptLayer](https://promptlayer.com), [Vellum](https://www.vellum.ai), [Galileo](https://galileo.ai), [Patronus AI](https://www.patronus.ai). What matters for the PM isn't the tool — it's that datasets, scores, and gates exist and you can read them.
 
 ## 6. Interview drills
 

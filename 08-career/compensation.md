@@ -1,6 +1,6 @@
 # 💵 AI PM Compensation — Verified Numbers, July 2026
 
-> Sources: levels.fyi, posted salary ranges on live job listings (the most reliable signal — legally required in many US states), ZipRecruiter/market aggregates, Glassdoor India. **All figures dated; comp moves fast and varies by level/location — treat as calibration, not promises.**
+> Sources: [levels.fyi](https://levels.fyi), posted salary ranges on live job listings (the most reliable signal — legally required in many US states), ZipRecruiter/market aggregates, Glassdoor India. **All figures dated; comp moves fast and varies by level/location — treat as calibration, not promises.**
 
 ---
 

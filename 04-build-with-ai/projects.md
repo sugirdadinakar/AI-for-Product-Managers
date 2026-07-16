@@ -32,7 +32,7 @@ Use Claude Projects or a Custom GPT. Upload a real corpus you own (your notes, a
 ## Project 3 — Working prototype with an AI builder ⚡
 **Skill unlocked: feasibility intuition + demo-able artifact · Time: a weekend · Cost: free tiers**
 
-Pick a real pain from your own life/work. Build it in **Lovable, v0, Bolt, or Replit** (or Claude Artifacts for a single-page interactive).
+Pick a real pain from your own life/work. Build it in **[Lovable](https://lovable.dev/pricing), [v0](https://v0.app/pricing), [Bolt](https://bolt.new/pricing), or [Replit](https://replit.com/pricing)** (or Claude Artifacts for a single-page interactive).
 
 1. Mini-PRD first: one user, one job, one success metric.
 2. Prompt the builder iteratively — notice *how you have to think* to get what you want (this is context engineering, felt).
@@ -46,7 +46,7 @@ Pick a real pain from your own life/work. Build it in **Lovable, v0, Bolt, or Re
 
 The differentiator project — very few PM candidates have done this.
 
-1. Get an API key (Google AI Studio free tier, or OpenAI/Anthropic).
+1. Get an API key ([Google AI Studio](https://ai.google.dev/aistudio) free tier, or OpenAI/Anthropic).
 2. Take your Project 1 prompt + golden set. Write (or have AI write you) a ~50-line script that runs all 20 cases through the API.
 3. Add a **judge**: a second model call that grades each output against your rubric, returning JSON scores.
 4. Calibrate: hand-grade 10 outputs yourself; compare with the judge; fix the rubric where you disagree.
@@ -56,7 +56,7 @@ The differentiator project — very few PM candidates have done this.
 ## Project 5 — Agent with tools & guardrails 🤖
 **Skill unlocked: agent product judgment · Time: a weekend+ · Cost: <$10**
 
-Build a small agent — easiest paths: Claude with MCP tools / a Custom GPT with Actions / a no-code agent builder (e.g., Zapier agents), or code with an agent framework if comfortable.
+Build a small agent — easiest paths: Claude with [MCP](https://modelcontextprotocol.io) tools / a Custom GPT with Actions / a no-code agent builder (e.g., Zapier agents), or code with an agent framework if comfortable.
 
 1. Give it a goal needing 3+ steps and 2+ tools (e.g., "research a topic and file a structured summary"; "triage these 20 fake support emails into a sheet with priorities").
 2. Deliberately design the **autonomy dial**: which step needs your approval? Add it.
@@ -74,4 +74,4 @@ One page, pinned at the top of your portfolio: **"What building 5 AI projects ta
 
 - **Ship something public** — 10 real users beats any certificate on a resume.
 - **Write as you build** — a build-log post per project on LinkedIn/Substack compounds into inbound recruiter interest.
-- **Free structured paths if you want guided versions:** Microsoft's *Generative AI for Beginners* and *AI Agents for Beginners* (GitHub), Anthropic Academy courses, Hugging Face Learn — all verified free ([course catalog](../09-resources/courses.md)).
+- **Free structured paths if you want guided versions:** Microsoft's *[Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)* and *AI Agents for Beginners* (GitHub), [Anthropic Academy](https://www.anthropic.com/learn) courses, [Hugging Face Learn](https://huggingface.co/learn) — all verified free ([course catalog](../09-resources/courses.md)).

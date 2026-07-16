@@ -32,14 +32,14 @@ The single highest-leverage category for PMs: these turn a PRD paragraph into a 
 | "Windsurf, the independent Cursor rival" | **Acquired by Cognition** — agreement July 2025, ~$250M reported, closed ~Dec 2025. Still shipping (SWE-1.5, Codemaps, Devin integration). ⚠️ Price/close details are secondary-sourced. |
 | "Cursor, the $4B independent" | **SpaceX agreed to acquire Anysphere for $60B all-stock (June 16, 2026); close expected Q3 2026 — ⚠️ PENDING, not closed.** ~$4B annualized revenue. (Context: xAI merged into SpaceX May 6, 2026.) |
 
-**PM reading:** Colin Matthews, *"A guide to AI prototyping for product managers"* — https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product (and *"How to get your entire team prototyping"*).
+**PM reading:** Colin Matthews, *["A guide to AI prototyping for product managers"](https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product)* (and *"How to get your entire team prototyping"*).
 
 ---
 
 ## 2. Model providers & flagship pricing
 
 > ### ⚠️ VOLATILITY WARNING — READ BEFORE QUOTING
-> **This is a snapshot of 2026-07-16, not a standing fact.** Model names and prices churn *quarterly*; several rows below will be wrong within a quarter. For a live, continuously-updated cross-provider comparison of price, speed, and quality, use **Artificial Analysis: https://artificialanalysis.ai** — and always confirm against the provider's own pricing page before it goes in a business case.
+> **This is a snapshot of 2026-07-16, not a standing fact.** Model names and prices churn *quarterly*; several rows below will be wrong within a quarter. For a live, continuously-updated cross-provider comparison of price, speed, and quality, use **[Artificial Analysis](https://artificialanalysis.ai)** — and always confirm against the provider's own pricing page before it goes in a business case.
 
 $/1M tokens, input / output. OpenAI, Anthropic, and Google rows verified from official pricing pages on 2026-07-16.
 
@@ -105,7 +105,7 @@ The category that most separates AI PMs from AI-curious PMs. Read [evals.md](../
 
 The generalizable rule: **eval tooling is a consolidating, acqui-hire-prone category.** Before you standardize a team on any vendor here, check (a) last release / commit date, (b) funding or acquisition news in the last 6 months, (c) whether an **export path for your datasets and traces** exists. Your golden dataset is the durable asset — [the tool is not](../02-technical-depth/evals.md). Note the pattern rhyme: Humanloop's founders are now *at* Anthropic, which ships the Console Evaluation tool.
 
-**PM reading:** Aman Khan (Arize), *"Beyond vibe checks: A PM's complete guide to evals"*, Lenny's Newsletter, Aug 2025 — https://www.lennysnewsletter.com/p/beyond-vibe-checks-a-pms-complete · Anthropic, *"Demystifying evals for AI agents"* — https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents
+**PM reading:** Aman Khan (Arize), *["Beyond vibe checks: A PM's complete guide to evals"](https://www.lennysnewsletter.com/p/beyond-vibe-checks-a-pms-complete)*, [Lenny's Newsletter](https://www.lennysnewsletter.com/), Aug 2025 · Anthropic, *["Demystifying evals for AI agents"](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)*
 
 ---
 
@@ -248,7 +248,7 @@ flowchart TD
 
 **The honest advice:** the tools converge in capability every quarter; your leverage comes from *shipping something*, not from picking the theoretically optimal builder. Pick one, build the [projects](../04-build-with-ai/projects.md), and let the prototype be the artifact you interview with ([resume & portfolio](../08-career/resume-portfolio.md)).
 
-*Further reading:* Marily Nika, *"PMs who use AI will replace those who don't"* — https://www.lennysnewsletter.com/p/pms-who-use-ai-will-replace-those
+*Further reading:* Marily Nika, *["PMs who use AI will replace those who don't"](https://www.lennysnewsletter.com/p/pms-who-use-ai-will-replace-those)*
 
 ---
 

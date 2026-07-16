@@ -6,7 +6,7 @@
 
 ## Tier 1 — Reported 🔵
 
-1. "Tell me what you know about DPO (Direct Preference Optimization)." *(cross-company, via IGotAnOffer's AI PM guide — the bar: preference tuning without full RL machinery; a cheaper RLHF alternative. If you can place it in the [three-stage pipeline](../../01-foundations/llm-fundamentals.md), you pass)*
+1. "Tell me what you know about DPO (Direct Preference Optimization)." *(cross-company, via [IGotAnOffer's AI PM guide](https://igotanoffer.com/en/advice/ai-product-manager-interview) — the bar: preference tuning without full RL machinery; a cheaper RLHF alternative. If you can place it in the [three-stage pipeline](../../01-foundations/llm-fundamentals.md), you pass)*
 2. "When would you use rule-based infrastructure vs. neural networks vs. LLMs?" *(the [decision tree](../../01-foundations/ml-fundamentals.md) — rules for knowable logic, classic ML for structured prediction at scale, LLMs for language/unstructured/generation; cost & auditability as tiebreakers)*
 3. "Explain embeddings to a product designer on your team." *(coach-compiled; meaning→coordinates analogy, similar things nearby, powers semantic search/recs)*
 4. "You have a model with 10x the capability at 10x the cost. What do you do with it?" *(OpenAI execution round — segment use cases by value density; route; price the premium tier; the answer is a portfolio, not a binary)*

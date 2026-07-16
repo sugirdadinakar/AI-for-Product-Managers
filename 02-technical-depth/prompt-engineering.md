@@ -107,10 +107,10 @@ Hiring managers increasingly ask "show me a prompt you're proud of." Strong arti
 
 ## 7. Learn from the source (free, canonical)
 
-- **Anthropic's prompt engineering docs** — platform.claude.com/docs (interactive tutorial + technique guides)
-- **OpenAI's prompt engineering guide & Cookbook** — platform.openai.com/docs + cookbook.openai.com
+- **[Anthropic's prompt engineering docs](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)** ([interactive tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) + technique guides)
+- **OpenAI's prompt engineering guide & [Cookbook](https://developers.openai.com/cookbook)** — platform.openai.com/docs
 - **Google's Gemini prompting guides** — ai.google.dev
-- **promptingguide.ai** — community-maintained survey of techniques with paper links
+- **[promptingguide.ai](https://www.promptingguide.ai/)** — community-maintained survey of techniques with paper links
 
 (Links verified in [09-resources/courses.md](../09-resources/courses.md) with the rest of the catalog.)
 

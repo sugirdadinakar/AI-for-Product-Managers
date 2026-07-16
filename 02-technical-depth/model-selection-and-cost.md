@@ -23,11 +23,11 @@ There is no "best model" — there is a best model **per task at a price**. Matu
 
 | Provider | Flagship tier | Cheap/fast tier | $/1M tokens (in / out) | Notes |
 |---|---|---|---|---|
-| OpenAI | GPT-5.6 family (GA Jul 2026) | smaller 5.6 variants | flagship ~$5/$30 · mid ~$2.50/$15 · small ~$1/$6 | 1M-token context on 5.6 family |
-| Anthropic | Claude Fable 5 · Opus 4.8 | Claude Sonnet 5 · Haiku 4.5 | Fable $10/$50 · Opus $5/$25 · Sonnet $2/$10 intro → $3/$15 after Aug 31, 2026 · Haiku $1/$5 | 1M context on recent models; cache reads 0.1×; batch −50% |
-| Google | Gemini 3.1 Pro | Gemini 3.5 Flash / Flash-Lite | Pro ~$2–4/$12–18 · Flash $1.50/$9 · Lite $0.25/$1.50 | Flash tiers have free quotas |
+| [OpenAI](https://developers.openai.com/api/docs/pricing) | GPT-5.6 family (GA Jul 2026) | smaller 5.6 variants | flagship ~$5/$30 · mid ~$2.50/$15 · small ~$1/$6 | 1M-token context on 5.6 family |
+| [Anthropic](https://platform.claude.com/docs/en/about-claude/pricing) | Claude Fable 5 · Opus 4.8 | Claude Sonnet 5 · Haiku 4.5 | Fable $10/$50 · Opus $5/$25 · Sonnet $2/$10 intro → $3/$15 after Aug 31, 2026 · Haiku $1/$5 | 1M context on recent models; cache reads 0.1×; batch −50% |
+| [Google](https://ai.google.dev/gemini-api/docs/pricing) | Gemini 3.1 Pro | Gemini 3.5 Flash / Flash-Lite | Pro ~$2–4/$12–18 · Flash $1.50/$9 · Lite $0.25/$1.50 | Flash tiers have free quotas |
 | DeepSeek | V4 Pro | V4 Flash | ~$0.44/$0.87 · ~$0.14/$0.28 | The price floor; open-weight heritage |
-| Mistral | Large 3 (open-weight, Apache 2.0) | Small 3 / Ministral | ~$0.50/$1.50 · from $0.04 | Self-hostable flagship |
+| [Mistral](https://mistral.ai/pricing/) | Large 3 (open-weight, Apache 2.0) | Small 3 / Ministral | ~$0.50/$1.50 · from $0.04 | Self-hostable flagship |
 | Meta | Llama 4 (last open family) | — | free weights, pay for hosting | Newer Meta frontier models are closed API-only |
 | xAI | Grok 4.5 | Grok 4.1 Fast | ~$2/$6 · ~$0.20/$0.50 | Up to 2M context on fast tier |
 | Alibaba | Qwen 3.5 (open) / Qwen 3.7 Max (closed) | — | free weights / API pricing | Strongest open-weight family from China alongside DeepSeek |
@@ -81,12 +81,12 @@ The pattern generalizes: **cost per action → actions per user → cost per use
 
 | Benchmark | Measures | Status |
 |---|---|---|
-| **Arena** (ex-LMArena) — arena.ai | Human preference Elo, blind A/B | Live; the vibes leaderboard |
+| **[Arena](https://arena.ai/leaderboard)** (ex-LMArena) | Human preference Elo, blind A/B | Live; the vibes leaderboard |
 | **Artificial Analysis** | Aggregated intelligence + speed + price | Live; best single shopping stop |
-| **SWE-bench Verified** | Real GitHub issue fixing (agents) | Live; SOTA ~mid-70s% (Apr 2026) |
+| **[SWE-bench Verified](https://www.swebench.com)** | Real GitHub issue fixing (agents) | Live; SOTA ~mid-70s% (Apr 2026) |
 | **GPQA Diamond** | Graduate-level science QA | Approaching saturation |
-| **τ²-bench** | Customer-service agents w/ simulated users | Live; agent behavior |
-| **ARC-AGI-2** | Abstract reasoning generalization | Live; frontier <~30% — the open frontier |
+| **[τ²-bench](https://github.com/sierra-research/tau-bench)** | Customer-service agents w/ simulated users | Live; agent behavior |
+| **[ARC-AGI-2](https://arcprize.org)** | Abstract reasoning generalization | Live; frontier <~30% — the open frontier |
 | MMLU, HumanEval | Knowledge MCQ / Python synthesis | **Saturated — historical only**; citing them as differentiators is a red flag |
 
 And repeat the mantra: benchmarks shortlist, **your evals decide** ([evals.md](evals.md)).

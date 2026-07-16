@@ -45,9 +45,9 @@ The consistent finding across company guides and candidate reports: **AI product
 
 ## Practice resources (verified July 2026)
 
-- **Exponent** (tryexponent.com) — Gen-AI interview course, company guides, candidate interview experiences, question DB. Company guides are free; courses paid.
+- **[Exponent](https://tryexponent.com)** — [Gen-AI interview course](https://tryexponent.com/courses/gen-ai-interviews), company guides, candidate interview experiences, [question DB](https://tryexponent.com/questions?role=pm). Company guides are free; courses paid.
 - **Product Management Exercises** — AI question sets + peer mocks (freemium).
-- **IGotAnOffer** — deep company guides built from candidate reports; paid coaching (~$50/credit).
+- **[IGotAnOffer](https://igotanoffer.com/en/advice/ai-product-manager-interview)** — deep company guides built from candidate reports; paid coaching (~$50/credit).
 - **Glassdoor** — raw candidate-reported questions per company (free; quality varies).
-- **Lewis Lin's *Decode and Conquer*** (5th ed., 2025 — adds AI-fluency sections) and **Lenny's Newsletter** interview guides (the Meta AI-round coverage is essential if you're interviewing there).
+- **Lewis Lin's *Decode and Conquer*** (5th ed., 2025 — adds AI-fluency sections) and **[Lenny's Newsletter](https://www.lennysnewsletter.com/)** interview guides (the Meta AI-round coverage is essential if you're interviewing there).
 - **Peers > platforms**: 5 live mocks with another candidate, swapping interviewer/candidate roles, beats 50 solo reps. The interviewer seat teaches you what rambling feels like.

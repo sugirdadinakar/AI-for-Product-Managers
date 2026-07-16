@@ -72,7 +72,7 @@ A 95%-reliable step chained 10 times ≈ **60%** task success (0.95¹⁰). Agent
 - **Outcome, not transcript**: did the ticket actually get resolved? Did the code pass the tests? Define task success objectively.
 - **Efficiency**: steps/tokens/cost per completed task — agents can succeed wastefully.
 - **Safety metrics**: unauthorized-action attempts, guardrail trips, human-override rate.
-- **Benchmarks to name-drop, with their limits**: SWE-bench Verified (real GitHub issue fixing), τ-bench/τ²-bench (customer-service agents with simulated users). Public benchmarks ≠ your product's tasks — build task-level evals from your own workflows ([evals.md](evals.md)).
+- **Benchmarks to name-drop, with their limits**: [SWE-bench Verified](https://www.swebench.com) (real GitHub issue fixing), [τ-bench/τ²-bench](https://github.com/sierra-research/tau-bench) (customer-service agents with simulated users). Public benchmarks ≠ your product's tasks — build task-level evals from your own workflows ([evals.md](evals.md)).
 - **Simulation before production**: run the agent against replayed/synthetic scenarios (including adversarial ones) before it touches real systems.
 
 ## 6. The economics
@@ -81,7 +81,7 @@ Agents consume tokens per *step*, not per answer — a single task can cost hund
 
 ## 7. MCP in one paragraph (you will be asked)
 
-**Model Context Protocol (MCP)** is an open standard for connecting AI assistants/agents to tools and data sources — "USB-C for AI tools." Created by Anthropic (Nov 2024), donated to the Linux Foundation's Agentic AI Foundation (Dec 2025), and supported across major assistants and IDEs. Product significance: instead of every AI app building bespoke integrations, tools expose one MCP server that any assistant can use — which shifts moats away from "we have integrations" toward workflow and data quality. (Status verified July 2026; details in [tools directory](../04-build-with-ai/README.md).)
+**[Model Context Protocol (MCP)](https://modelcontextprotocol.io)** is an open standard for connecting AI assistants/agents to tools and data sources — "USB-C for AI tools." Created by Anthropic (Nov 2024), donated to the Linux Foundation's Agentic AI Foundation (Dec 2025), and supported across major assistants and IDEs. Product significance: instead of every AI app building bespoke integrations, tools expose one MCP server that any assistant can use — which shifts moats away from "we have integrations" toward workflow and data quality. (Status verified July 2026; details in [tools directory](../04-build-with-ai/README.md).)
 
 ## 8. Interview drill — "Design an AI agent that handles refund requests for an e-commerce company"
 

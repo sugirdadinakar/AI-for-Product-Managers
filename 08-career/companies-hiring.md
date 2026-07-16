@@ -8,12 +8,12 @@
 
 | Company | Status | Titles seen | Notes |
 |---|---|---|---|
-| OpenAI | ✅ | "Product Manager, [surface]" — API Agents, Codex, Countries & Governments | Board: jobs.ashbyhq.com/openai · [loop details](../07-interview-prep/interview-processes-by-company.md) |
-| Anthropic | ✅ | "Product Manager, Claude Code", "PM, Model Performance" | Posted range seen: $305K–$460K · Greenhouse board |
-| Google DeepMind | ✅ | "Product Manager, [area]" — Responsibility, Technical Intelligence | Posted base seen: $183K–$271K |
-| Meta (AI orgs) | ✅ | PM with AI-track loop | The "Product Sense with AI" round lives here |
-| Microsoft AI | ✅ | PM in MAI/Copilot orgs | Notably technical AI PM loop |
-| Mistral AI | ✅ | "Product Manager, AI Assistant" | European frontier option (Paris) |
+| [OpenAI](https://jobs.ashbyhq.com/openai) | ✅ | "Product Manager, [surface]" — API Agents, Codex, Countries & Governments | Ashby board · [loop details](../07-interview-prep/interview-processes-by-company.md) |
+| [Anthropic](https://anthropic.com/careers) | ✅ | "Product Manager, Claude Code", "PM, Model Performance" | Posted range seen: $305K–$460K · Greenhouse board |
+| [Google DeepMind](https://deepmind.google/careers) | ✅ | "Product Manager, [area]" — Responsibility, Technical Intelligence | Posted base seen: $183K–$271K |
+| [Meta (AI orgs)](https://metacareers.com/teams/technology/ai/) | ✅ | PM with AI-track loop | The "Product Sense with AI" round lives here |
+| [Microsoft AI](https://microsoft.ai/job/) | ✅ | PM in MAI/Copilot orgs | Notably technical AI PM loop |
+| [Mistral AI](https://mistral.ai/careers) | ✅ | "Product Manager, AI Assistant" | European frontier option (Paris) |
 | xAI | ⚠️ | — | PM postings **not verified** (technical-staff roles dominate); watch levels.fyi/board directly |
 
 ## Tier 2 — Big tech (most seats, structured loops)
@@ -28,7 +28,7 @@
 |---|---|---|
 | Databricks | ✅ | Staff PM AI Platform, Sr PM Databricks AI |
 | Perplexity | ✅ | PM (Builder); Enterprise PM $160K–$200K posted; **runs an APM program** |
-| Cursor (Anysphere) | ✅ | ~90 open roles incl. PM, Cloud Agents (acquisition-in-progress caveat) |
+| [Cursor (Anysphere)](https://cursor.com/careers) | ✅ | ~90 open roles incl. PM, Cloud Agents (acquisition-in-progress caveat) |
 | Sierra | ✅ | PM Agent Development / Agent SDK; **APX rotational program for new grads** |
 | Decagon | ✅ | "Agent Product Manager" |
 | Figma | ✅ | PM AI Platform (owns evals/agent infra/MCP), PM AI Growth ($207K–$303K base posted) |
@@ -42,7 +42,7 @@
 
 ✅ Verified: **Sarvam AI** (PM for India-focused AI agents), **Sprinklr** (PM/Sr PM, Gurgaon).
 🔶 PM hiring confirmed, AI titles not: **Razorpay**, Flipkart, Swiggy, Zomato, Freshworks. ⚠️ Krutrim: AI-lab hiring reported, PM roles unverified.
-**India pattern:** titles stay generic ("PM II/III") with AI in the job description — search JDs, not titles. Boards: productbased.in, productmanagementjob.com, plus LinkedIn/Naukri with "generative AI product" keywords.
+**India pattern:** titles stay generic ("PM II/III") with AI in the job description — search JDs, not titles. Boards: [productbased.in](https://productbased.in), [productmanagementjob.com](https://productmanagementjob.com), plus LinkedIn/Naukri with "generative AI product" keywords.
 
 ## Demand snapshot (sourced)
 

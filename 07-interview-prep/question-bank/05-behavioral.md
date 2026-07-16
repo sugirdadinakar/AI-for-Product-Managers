@@ -18,7 +18,7 @@
 10. "How would you convince engineers to build a feature?" *(Perplexity — evidence + shared metrics + prototype > authority)*
 11. "Tell me about an AI product from your resume. What did you like and dislike about it?" *(Microsoft AI — have the balanced critique ready)*
 12. "What experience do you have building AI features?" *(Perplexity — if the honest answer is thin, [build the portfolio](../../04-build-with-ai/projects.md) before you apply)*
-13. "Tell me about a time you shipped an AI feature that backfired." *(cross-company via IGotAnOffer — the Learning beat is the whole answer)*
+13. "Tell me about a time you shipped an AI feature that backfired." *(cross-company via [IGotAnOffer](https://igotanoffer.com/en/advice/ai-product-manager-interview) — the Learning beat is the whole answer)*
 14. "Describe a situation where you had to explain AI limitations to excited stakeholders." *(cross-company via IGotAnOffer)*
 
 ## Tier 2 — AI-era behavioral practice ⚪

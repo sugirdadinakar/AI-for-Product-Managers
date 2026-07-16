@@ -1,6 +1,6 @@
 # 🏢 Interview Processes by Company — What's Documented
 
-> Compiled from company career pages, Exponent/IGotAnOffer guides, Glassdoor aggregates, and candidate write-ups; **verified July 2026**. Processes change — treat as the shape, confirm specifics with your recruiter. ⚠️ = single-source or conflicting reports.
+> Compiled from company career pages, [Exponent](https://tryexponent.com)/[IGotAnOffer](https://igotanoffer.com/en/advice/ai-product-manager-interview) guides, Glassdoor aggregates, and candidate write-ups; **verified July 2026**. Processes change — treat as the shape, confirm specifics with your recruiter. ⚠️ = single-source or conflicting reports.
 
 ---
 
@@ -67,4 +67,4 @@ Recruiter screen → hiring manager → product/business case → cross-function
 3. **Mission fit is screened for real** at frontier labs — Anthropic's values round and OpenAI's "why here, why AI" filtering reward genuine engagement and punish rehearsed enthusiasm.
 4. **Levels drive loops**: senior/principal loops add strategy + org-design rounds; the AI-prototyping rounds currently concentrate at mid-senior IC levels.
 
-*Sources: Exponent company guides (OpenAI, Anthropic, Meta, Microsoft AI, Perplexity, Mistral — fetched/verified), IGotAnOffer guides, openai.com/interview-guide, Glassdoor aggregates, Lenny's Newsletter (Meta AI round), Prepfully, candidate write-ups. Verified July 2026.*
+*Sources: Exponent company guides (OpenAI, Anthropic, Meta, Microsoft AI, Perplexity, Mistral — fetched/verified), IGotAnOffer guides, [openai.com/interview-guide](https://openai.com/interview-guide), Glassdoor aggregates, [Lenny's Newsletter](https://www.lennysnewsletter.com/) (Meta AI round), Prepfully, candidate write-ups. Verified July 2026.*
