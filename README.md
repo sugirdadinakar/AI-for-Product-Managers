@@ -1,3 +1,12 @@
+<!--
+This repository is a copy of https://github.com/ombharatiya/AI-for-Product-Managers
+maintained by @sugirdadinakar. All original content and the LICENSE are
+preserved; full upstream commit history is retained. See the attribution note
+below.
+-->
+
+> **Note:** This is a personal copy of [ombharatiya/AI-for-Product-Managers](https://github.com/ombharatiya/AI-for-Product-Managers), maintained by [@sugirdadinakar](https://github.com/sugirdadinakar). All credit for the original content goes to the upstream author; the original `LICENSE` and full commit history are preserved here.
+
 <div align="center">
 
 # 🧠 AI for Product Managers
